@@ -1,0 +1,39 @@
+html{
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.profile{
+    width: 200px;
+    border-radius: 100%;
+}
+
+.destaque{
+    width: 100%;
+    border-radius: 20px;
+}
+
+body{
+    padding: 20px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    height: 20px;
+    width: 300px;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
